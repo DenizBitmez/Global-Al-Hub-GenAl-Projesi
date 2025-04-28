@@ -1,112 +1,48 @@
-ChatGpt
-1.Prompt
-Kendini bir ön yüz web geliştiricisi olarak tanımla. Bir web sitesi oluştur.  Bu web sitesinde 3 adet menü olacak. Resimler de içerisinde bulunacak. Bunları html, css, javascript kodlarıyla yapmanı istiyorum. Bu kodları ayrı ayrı paylaşmanı istiyorum. Son olarak bu web sitesinin responsive bir tasarıma sahip olmasını istiyorum. Bunları yapabilir misin?
+# Prompt Engineering: Web Development Project  
 
-2.Prompt
-Menüleri Javascript kodunda nasıl etkinleştirebilirim.
+This repository contains the final project developed during the **Introduction to Prompt Engineering Bootcamp**, organized by **Global AI Hub** in collaboration with **Aygaz**. The project focuses on using AI-generated prompts to create a responsive website and explore the potential of AI tools in web development.
 
-3.Prompt
-Web sitesinde responsive tasarım nasıl yapılır.
+## Project Overview  
+This project demonstrates the creation of a functional and responsive website using AI-generated prompts and tools. From coding to visual design, every element was crafted with the help of AI to showcase the versatility and creativity of prompt engineering.
 
-4.Prompt
-Bana Html ve Css ile iletişim sayfası oluşturur musun?
+---
 
-5.prompt
-Gönder tuşuna basıldıktan sonra ekranda kalmasını nasıl sağlarım?
+## Prompts Used  
 
-6.Prompt
-Dall e hakkında bilgi verir misin?
+### ChatGPT  
+1. **Frontend Development:** Generated a website with three menus, images, and HTML, CSS, JavaScript codes, ensuring a responsive design.  
+2. **Interactive Menus:** Created JavaScript code to enable menu functionality.  
+3. **Responsive Design:** Provided solutions for creating a responsive web layout.  
+4. **Contact Page:** Designed an HTML and CSS-based contact page.  
+5. **Submit Button Behavior:** Implemented code to ensure the submit button remains visible after being clicked.  
 
-7.Prompt
-Artbreeder hakkında bilgi verir misin?
+### AI Tools for Visuals  
+- **DALL-E:** Created visuals like a red bird with a pear-shaped body and flower-shaped wings, and an AI-themed logo.  
+- **ArtBreeder:** Generated creative designs, such as a cat on the moon.  
+- **Canva:** Designed a starry-themed photo for aesthetic enhancement.  
 
-8.Prompt
-Canva hakkında bilgi verir misin?
+---
 
-9.Prompt
-htmlde bir hakkında sayfası oluşturabilir misin?
+## Technologies Used  
+- **Frontend:** HTML, CSS, JavaScript  
+- **AI Tools:** ChatGPT, DALL-E, ArtBreeder, Canva, PicsArt, Craiyon, and more  
+- **Frameworks:** Responsive design frameworks and JavaScript enhancements  
 
-10.Prompt
-Bu hakkında sayfasının css kodunu yazabilir misin?
+---
 
-Dall-E
+## Key Learning Outcomes  
+- Understanding the fundamentals of **prompt engineering** for task automation.  
+- Creating functional and visually appealing web elements with **AI-generated code**.  
+- Leveraging various AI tools for web development and creative design.  
 
-11.Prompt
-kırmızı bir kuşun gövdesi armut, kanadı çiçek şeklinde olan bir kuş yap
+---
 
-12.Prompt
-Yapay Zekayla ilgili bir logo yap.
+## Future Directions  
+- Enhance the project with additional pages and features powered by AI tools.  
+- Integrate real-time interactivity using advanced JavaScript frameworks.  
+- Optimize performance for mobile and cross-platform support.
 
-ArtBreeder
-
-13.Prompt
-a cat on moon
-
-Simplified
-
-14.Prompt
-Northern lights over New York at night
-
-Canva
-
-15.Prompt
-a photo about stars
-
-Limewire
-
-16.Prompt
-aliens on the eart negative prompt night,dust
-
-Picsart
-
-17.Prompt
-cruiosity on the mars
-
-Craiyon
-
-18.Prompt
-a image of the moon
-
-Capcut
-
-19.Prompt
-astranouts on the moon
-
-Runway
-
-20.Prompt
-a dog climbing the tree
-
-Night cafe
-
-21.Prompt
-Three men in spacesuits tending to the flowers in a geodesic dome of atmosphere on the moon.
+##License
+- This project is licensed under the MIT License.
 
 
-Vance al
-
-22.Prompt
-an elephant drink water from the lake
-
-Gemini
-
-23.Prompt
-LimeWire hakkında bilgi verir misin?
-
-24.Prompt
-PicsArt hakkında bilgi verir misin?
-
-25.Prompt
-Craiyon hakkında bilgi verir misin?
-
-26.Prompt
-CapCut hakkında bilgi verir misin?
-
-27.Prompt
-Runway hakkında bilgi verir misin?
-
-28.Prompt
-Night cafe hakkında bilgi verir misin?
-
-29.Prompt
-Vance Al hakkında bilgi verir misin?
